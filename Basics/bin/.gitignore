@@ -92,3 +92,10 @@
 /san.class
 /sta.class
 /stat.class
+/Association.class
+/CityClass.class
+/State.class
+/Composition.class
+/Car.class
+/CarEngine.class
+/Honda.class
