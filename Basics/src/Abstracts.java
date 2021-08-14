@@ -2,7 +2,7 @@ abstract class ruban{
 	int i=10;
 	abstract void meht();
 }
-
+//jii
 class san extends ruban{
 
 	@Override
